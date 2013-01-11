@@ -29,7 +29,6 @@ PRODUCT_PACKAGES += \
     HoloSpiralWallpaper \
     LiveWallpapers \
     LiveWallpapersPicker \
-    MagicSmokeWallpapers \
     NoiseField \
     PhaseBeam \
     VisualizationWallpapers
